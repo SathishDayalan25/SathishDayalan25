@@ -39,7 +39,7 @@ Other Tools: Postman, Figma, Docker (learning), GitHub Actions (learning)
 
 - 💼 LinkedIn: [linkedin.com/in/sathishdayalan25](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJAdAvhw5SPiyEiYgAaMLYg%3D%3D)
 
-- 🐙 GitHub: github.com/SathishDayalan25
+- 🐙 GitHub: [github.com/SathishDayalan25](https://github.com/SathishDayalan25)
 
 😄 Pronouns
 He / Him
