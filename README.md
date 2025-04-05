@@ -1,13 +1,12 @@
-👋 Hey there! I'm Sathish Dayalan (@SathishDayalan25)
+👋 Hey there! I'm Sathish Kumar Dayalan (@SathishDayalan25)
 
 I'm a Full Stack Developer passionate about building modern web applications with a clean UI and solid backend logic. I love turning ideas into real-world applications and collaborating with others in the dev community.
 
 👨‍💻 About Me
-- 🌍 Based in: [Your Location] *(optional)*
-- 💻 I work on: Frontend + Backend (React, Node.js, Laravel)
+- 💻 I work on: Frontend + Backend (React, Node.js, Laravel, React + Laravel)
 - 🎓 Recently completed: MERN Stack Development Course
 - 🔧 Tools & Tech I use regularly:  
-  React • Node.js • Express • MongoDB • Laravel • MySQL • JavaScript • Git • Postman • VS Code
+  React • Node.js • Express • MongoDB • Laravel • MySQL • JavaScript • Git • Postman • VS Code • Angular • Tailwind Css • Bootstrap
 
 🚀 Tech Stack
 
